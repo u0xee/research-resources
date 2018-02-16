@@ -34,3 +34,8 @@
 * [Ian Rogers - JVM Internals](https://youtu.be/UwB0OSmkOtQ)
 * [Cliff Click - A JVM Does That?](https://youtu.be/uL2D3qzHtqY)
 * [Jeremy Manson - The Java Memory Model](https://youtu.be/WTVooKLLVT8)
+
+# Prospective
+* [Gil Tene - JVM Mechanics](https://www.infoq.com/presentations/JVM-Mechanics)
+* [Gil Tene - Java vs C++ Panel](https://www.infoq.com/presentations/java-c-plus-plus-performance)
+
