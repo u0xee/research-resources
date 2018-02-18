@@ -14,6 +14,7 @@
 * [Rich Hickey - Hammock Driven Development](https://youtu.be/f84n5oFoZBc)
 * [Rich Hickey - Deconstructing the Database](https://youtu.be/Cym4TZwTCNU)
 * [Rich Hickey - The Database as a Value](https://youtu.be/EKdV1IgAaFc)
+* [Rich Hickey - Intro to Datomic](https://youtu.be/RKcqYZZ9RDY)
 * [Rich Hickey - Are We There Yet?](https://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey)
 * [Rich Hickey - Clojure core.async](https://www.infoq.com/presentations/clojure-core-async)
 * [Rich Hickey - Clojure core.async 2](https://www.infoq.com/presentations/core-async-clojure)
