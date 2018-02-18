@@ -5,26 +5,32 @@
 * [Rich Hickey - The Value of Values](https://www.infoq.com/presentations/Value-Values)
 * [Rich Hickey - Simplicity Matters](https://youtu.be/rI8tNMsozo0)
 * [Rich Hickey - Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy)
-* [Rich Hickey - Transducers](https://youtu.be/6mTbuzafcII)
-* [Rich Hickey - Inside Transducers](https://youtu.be/4KqUvG8HPYo)
+* [Rich Hickey - The Language of the System](https://youtu.be/ROor6_NGIWU)
+* [Stuart Halloway - Narcissistic Design](https://youtu.be/LEZv-kQUSi4)
+* [Stuart Halloway - Debugging with the Scientific Method](https://youtu.be/FihU5JxmnBg)
+* [Rich Hickey - Hammock Driven Development](https://youtu.be/f84n5oFoZBc)
+* [Rich Hickey - Effective Programs - 10 Years of Clojure](https://youtu.be/2V1FtfBDsLU)
+
+### Language Design
 * [Rich Hickey - Clojure for Lisp Programmers Part 1](https://youtu.be/nDm-QDEXGEA)
 * [Rich Hickey - Clojure for Lisp Programmers Part 2](https://youtu.be/7mbcYxHO0nM)
-* [Rich Hickey - The Language of the System](https://youtu.be/ROor6_NGIWU)
-* [Rich Hickey - Effective Programs - 10 Years of Clojure](https://youtu.be/2V1FtfBDsLU)
-* [Rich Hickey - Hammock Driven Development](https://youtu.be/f84n5oFoZBc)
-* [Rich Hickey - Deconstructing the Database](https://youtu.be/Cym4TZwTCNU)
-* [Rich Hickey - The Database as a Value](https://youtu.be/V6DKjEbdYos)
-* [Rich Hickey - Intro to Datomic](https://youtu.be/RKcqYZZ9RDY)
-* [Rich Hickey - Are We There Yet?](https://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey)
-* [Rich Hickey - Clojure core.async](https://www.infoq.com/presentations/clojure-core-async)
-* [Rich Hickey - Clojure core.async 2](https://www.infoq.com/presentations/core-async-clojure)
 * [Rich Hickey - Intro to Clojure Data Structures Part 1](https://youtu.be/ketJlzX-254)
 * [Rich Hickey - Intro to Clojure Data Structures Part 2](https://youtu.be/sp2Zv7KFQQ0)
+* [Rich Hickey - Are We There Yet?](https://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey)
 * [Rich Hickey - ClojureScript Release](https://youtu.be/tVooR-dF_Ag)
+
+### Libraries
+* [Rich Hickey - Transducers](https://youtu.be/6mTbuzafcII)
+* [Rich Hickey - Inside Transducers](https://youtu.be/4KqUvG8HPYo)
+* [Rich Hickey - Clojure core.async](https://www.infoq.com/presentations/clojure-core-async)
+* [Rich Hickey - Clojure core.async 2](https://www.infoq.com/presentations/core-async-clojure)
 * [Stuart Halloway - Clojure spec](https://youtu.be/VNTQ-M_uSo8)
-* [Stuart Halloway - Debugging with the Scientific Method](https://youtu.be/FihU5JxmnBg)
-* [Stuart Halloway - Narcissistic Design](https://youtu.be/LEZv-kQUSi4)
 * [Stuart Halloway - Data.Fressian](https://youtu.be/JArZqMqsaB0)
+
+### Datomic
+* [Rich Hickey - Intro to Datomic](https://youtu.be/RKcqYZZ9RDY)
+* [Rich Hickey - Deconstructing the Database](https://youtu.be/Cym4TZwTCNU)
+* [Rich Hickey - The Database as a Value](https://youtu.be/V6DKjEbdYos)
 
 
 # Onyx
@@ -46,7 +52,7 @@
 * [Ian Rogers - JVM Internals](https://youtu.be/UwB0OSmkOtQ)
 * [Cliff Click - A JVM Does That?](https://youtu.be/uL2D3qzHtqY)
 * [Jeremy Manson - The Java Memory Model](https://youtu.be/WTVooKLLVT8)
-* [Brian Goetz - Stewardship](https://youtu.be/2y5Pv4yN0b0)
+* [Brian Goetz - Stewardship of Java](https://youtu.be/2y5Pv4yN0b0)
 
 # Golang
 * [Rob Pike - Concurrency is not Parallelism](https://youtu.be/cN_DpYBzKso)
@@ -68,7 +74,7 @@
 * [Richard Hipp - SQLite as an Application File Format](https://youtu.be/8y_ABXwYtuc)
 * [Richard Hipp - How SQL Database Engines Work](https://youtu.be/Z_cX3bzkExE)
 
-# V8 JavaScript Engine
+# JavaScript Engines
 * [Mads Ager - V8: High Performance JavaScript Engine](https://youtu.be/FrufJFBSoQY)
 * [Daniel Clifford - Breaking the Speed Limit with V8](https://youtu.be/UJPdhx5zTaw)
 
