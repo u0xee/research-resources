@@ -96,6 +96,8 @@
 * [Adam Wick - Why Unikernels](https://youtu.be/oHcHTFleNtg)
 * [Solomon Hykes - Introduction to Docker](https://youtu.be/Q5POuMHxW-0)
 
-# Candidates
+# Candidates: need vetting
 * [Topher Bullock - Nashorn with Spring](https://youtu.be/kVyVyRdxwxE)
 * [Jim Laskey - Nashorn](https://youtu.be/TjrCPLdvUns)
+* [Gil Tene - JVM Mechanics](https://www.infoq.com/presentations/JVM-Mechanics)
+* [Gil Tene - Java vs C++ Panel](https://www.infoq.com/presentations/java-c-plus-plus-performance)
