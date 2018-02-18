@@ -13,7 +13,7 @@
 * [Rich Hickey - Effective Programs - 10 Years of Clojure](https://youtu.be/2V1FtfBDsLU)
 * [Rich Hickey - Hammock Driven Development](https://youtu.be/f84n5oFoZBc)
 * [Rich Hickey - Deconstructing the Database](https://youtu.be/Cym4TZwTCNU)
-* [Rich Hickey - The Database as a Value](https://youtu.be/EKdV1IgAaFc)
+* [Rich Hickey - The Database as a Value](https://youtu.be/V6DKjEbdYos)
 * [Rich Hickey - Intro to Datomic](https://youtu.be/RKcqYZZ9RDY)
 * [Rich Hickey - Are We There Yet?](https://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey)
 * [Rich Hickey - Clojure core.async](https://www.infoq.com/presentations/clojure-core-async)
@@ -25,6 +25,7 @@
 * [Stuart Halloway - Debugging with the Scientific Method](https://youtu.be/FihU5JxmnBg)
 * [Stuart Halloway - Narcissistic Design](https://youtu.be/LEZv-kQUSi4)
 * [Stuart Halloway - Data.Fressian](https://youtu.be/JArZqMqsaB0)
+
 
 # Onyx
 * [Michael Drogalis - Onyx: Distributed Workflows for Dynamic Systems](https://youtu.be/vG47Gui3hYE)
@@ -79,3 +80,4 @@
 * [Mike Acton - Data-Oriented Design in C++](https://youtu.be/rX0ItVEVjHc)
 * [Peter Messmer - GPU Architecture and CUDA](https://youtu.be/nRSxp5ZKwhQ)
 * [Scott Meyers - CPU Caches](https://youtu.be/WDIkqP4JbkE)
+* [Rick Astley - On Promises and Trust](https://youtu.be/dQw4w9WgXcQ)
