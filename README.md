@@ -11,7 +11,10 @@
 * [Rich Hickey - Hammock Driven Development](https://youtu.be/f84n5oFoZBc)
 * [Rich Hickey - Effective Programs - 10 Years of Clojure](https://youtu.be/2V1FtfBDsLU)
 
-### Language Design
+### Language Introductions
+* [Rich Hickey - Clojure, Made Simple](https://youtu.be/VSdnJDO-xdg)
+* [Rich Hickey - Clojure for Java Programmers Part 1](https://youtu.be/P76Vbsk_3J0)
+* [Rich Hickey - Clojure for Java Programmers Part 2](https://youtu.be/hb3rurFxrZ8)
 * [Rich Hickey - Clojure for Lisp Programmers Part 1](https://youtu.be/nDm-QDEXGEA)
 * [Rich Hickey - Clojure for Lisp Programmers Part 2](https://youtu.be/7mbcYxHO0nM)
 * [Rich Hickey - Intro to Clojure Data Structures Part 1](https://youtu.be/ketJlzX-254)
