@@ -26,6 +26,12 @@
 * [Stuart Halloway - Narcissistic Design](https://youtu.be/LEZv-kQUSi4)
 * [Stuart Halloway - Data.Fressian](https://youtu.be/JArZqMqsaB0)
 
+# Onyx
+* [Michael Drogalis - Onyx: Distributed Workflows for Dynamic Systems](https://youtu.be/vG47Gui3hYE)
+* [Michael Drogalis - Onyx: Distributed Computing for Clojure](https://youtu.be/YlfA8hFs2HY)
+* [Michael Drogalis - Inside Onyx](https://youtu.be/KVByn_kp2fQ)
+* [Michael Drogalis - Beginning Onyx](https://youtu.be/6zlPmtPm7ig)
+
 # Rust
 * [Felix Klock - Rust: A type system you didn't know you wanted](https://youtu.be/Q7lQCgnNWU0)
 * [Alex Crichton - The Rust Programming Language](https://youtu.be/d1uraoHM8Gg)
