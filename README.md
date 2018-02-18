@@ -46,6 +46,7 @@
 * [Ian Rogers - JVM Internals](https://youtu.be/UwB0OSmkOtQ)
 * [Cliff Click - A JVM Does That?](https://youtu.be/uL2D3qzHtqY)
 * [Jeremy Manson - The Java Memory Model](https://youtu.be/WTVooKLLVT8)
+* [Brian Goetz - Stewardship](https://youtu.be/2y5Pv4yN0b0)
 
 # Golang
 * [Rob Pike - Concurrency is not Parallelism](https://youtu.be/cN_DpYBzKso)
@@ -71,13 +72,21 @@
 * [Mads Ager - V8: High Performance JavaScript Engine](https://youtu.be/FrufJFBSoQY)
 * [Daniel Clifford - Breaking the Speed Limit with V8](https://youtu.be/UJPdhx5zTaw)
 
-# Games
+# Carmack
 * [John Carmack - Principles of Lighting and Rendering](https://youtu.be/IyUgHPs86XM)
 * [John Carmack - Quakecon 2013 Keynote Part 4](https://youtu.be/1PhArSujR_A)
 
-
-# To Be Reviewed/Sorted
+# Need Sorting
 * [Mike Acton - Data-Oriented Design in C++](https://youtu.be/rX0ItVEVjHc)
 * [Peter Messmer - GPU Architecture and CUDA](https://youtu.be/nRSxp5ZKwhQ)
 * [Scott Meyers - CPU Caches](https://youtu.be/WDIkqP4JbkE)
 * [Rick Astley - On Promises and Trust](https://youtu.be/dQw4w9WgXcQ)
+* [Colin Fleming - Cursive IDE](https://youtu.be/vt1y2FbWQMg)
+* [Raymond Hettinger - Modern Python Dictionaries](https://youtu.be/p33CVV29OG8)
+* [Raymond Hettinger - Idiomatic Python](https://youtu.be/OSGv2VnC0go)
+* [Adam Wick - Why Unikernels](https://youtu.be/oHcHTFleNtg)
+* [Solomon Hykes - Introduction to Docker](https://youtu.be/Q5POuMHxW-0)
+
+# Candidates
+* [Topher Bullock - Nashorn with Spring](https://youtu.be/kVyVyRdxwxE)
+* [Jim Laskey - Nashorn](https://youtu.be/TjrCPLdvUns)
