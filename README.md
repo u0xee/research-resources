@@ -52,6 +52,7 @@
 # JVM
 * [Cliff Click - A Crash Course in Modern Hardware](https://www.infoq.com/presentations/click-crash-course-modern-hardware)
 * [Gil Tene - Java Garbage Collection](https://youtu.be/we_enrM7TSY)
+* [Gil Tene - JVM Mechanics](https://www.infoq.com/presentations/JVM-Mechanics)
 * [Ian Rogers - JVM Internals](https://youtu.be/UwB0OSmkOtQ)
 * [Cliff Click - A JVM Does That?](https://youtu.be/uL2D3qzHtqY)
 * [Jeremy Manson - The Java Memory Model](https://youtu.be/WTVooKLLVT8)
@@ -99,5 +100,3 @@
 # Candidates: need vetting
 * [Topher Bullock - Nashorn with Spring](https://youtu.be/kVyVyRdxwxE)
 * [Jim Laskey - Nashorn](https://youtu.be/TjrCPLdvUns)
-* [Gil Tene - JVM Mechanics](https://www.infoq.com/presentations/JVM-Mechanics)
-* [Gil Tene - Java vs C++ Panel](https://www.infoq.com/presentations/java-c-plus-plus-performance)
