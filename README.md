@@ -12,6 +12,7 @@
 * [Rich Hickey - Effective Programs - 10 Years of Clojure](https://youtu.be/2V1FtfBDsLU)
 
 ### Language Introductions
+* [Rich Hickey - Persistent Data Structures](https://www.infoq.com/presentations/Value-Identity-State-Rich-Hickey)
 * [Rich Hickey - Clojure, Made Simple](https://youtu.be/VSdnJDO-xdg)
 * [Rich Hickey - Clojure for Java Programmers Part 1](https://youtu.be/P76Vbsk_3J0)
 * [Rich Hickey - Clojure for Java Programmers Part 2](https://youtu.be/hb3rurFxrZ8)
